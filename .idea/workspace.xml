@@ -48,6 +48,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\uygulamalar\beta-blog\app\assets\images" />
+    </key>
+  </component>
   <component name="RunManager" selected="Rails.Development: beta-blog">
     <configuration name="Development: beta-blog" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="beta-blog" />
@@ -151,7 +156,7 @@
       <workItem from="1635335777055" duration="45789000" />
       <workItem from="1636112856322" duration="17876000" />
       <workItem from="1636362827477" duration="272000" />
-      <workItem from="1636363112797" duration="32844000" />
+      <workItem from="1636363112797" duration="37082000" />
     </task>
     <servers />
   </component>
