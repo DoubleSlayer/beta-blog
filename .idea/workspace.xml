@@ -46,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -156,7 +156,7 @@
       <workItem from="1635335777055" duration="45789000" />
       <workItem from="1636112856322" duration="17876000" />
       <workItem from="1636362827477" duration="272000" />
-      <workItem from="1636363112797" duration="37082000" />
+      <workItem from="1636363112797" duration="60366000" />
     </task>
     <servers />
   </component>
